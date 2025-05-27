@@ -1,0 +1,2 @@
+SELECT * FROM Tasks WHERE AssignedUserId = 2;
+SELECT * FROM TaskComments WHERE TaskId = 1;
